@@ -11,6 +11,7 @@ Eine Sonderform ist die vollflächig aufgelagerte Platte (Fundamentplatte). Dies
 - fehlt eine Lagerung wird es freie lagerung genannt.
 
 #### Wann wird wie gelagert?
+
 ![[IMG_2FB98ED5123B-1.jpeg|300]]
 
 - Ganz oben haben wir Schnitt einer Wand. Dies ist nur ein Abschnitt, wie verformt der sich jetzt, wenn wir auf der Decke eine verteilte Nutzlast einwirken ?

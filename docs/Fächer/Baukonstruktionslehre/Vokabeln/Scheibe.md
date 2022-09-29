@@ -1,5 +1,5 @@
 ![[IMG_28CFAFD2BC9E-1.jpeg|500]]
->[!TIP] Ebene, Flächenförmige Tragwerke die auf Druck Normalbelastet werden, nennt man Scheibe.
+>💡 Ebene, Flächenförmige Tragwerke die auf Druck Normalbelastet werden, nennt man Scheibe.
 
 - <mark style="background: #FF5582A6;">Lagerung:</mark> 
 	- in der Regel Punktförmig (⇒ Biegebelastungen in der Scheibenebene), Streifenförmig
