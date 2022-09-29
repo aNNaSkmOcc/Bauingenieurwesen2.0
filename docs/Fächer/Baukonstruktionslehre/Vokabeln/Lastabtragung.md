@@ -7,13 +7,13 @@
 
 schauen wir uns mal folgenden Grunriss an:
 
-![400](Bilder/Baukonstruktionslehre/IMG_B5706355AD3D-1%202.jpeg)
+![400](Baukonstruktionslehre/Bilder/IMG_B5706355AD3D-1%202.jpeg)
 
 sagen wir, wir wollen mal einen Horizontalen Schnitt machen :D
 
 Dann sähe unser Durchlaufträger nämlich so aus:
 
-![[Bilder/Baukonstruktionslehre/IMG_7DC2025953CB-1.jpeg]]
+![[Baukonstruktionslehre/Bilder/IMG_7DC2025953CB-1.jpeg]]
 
 Wenn wir etwas nicht fest einspannen, dann ist es gelenkig gelagert. 
 
@@ -27,13 +27,13 @@ Ergo: die ganzen Innenwände sind also Fest eingespannt gelagert....
 
 Gucken wir uns noch eine Wand an:
 
-![200](Bilder/Baukonstruktionslehre/IMG_FA9FB3E61975-1.jpeg)
+![200](Baukonstruktionslehre/Bilder/IMG_FA9FB3E61975-1.jpeg)
 
 Auch hier wieder das Prinzip von oben: alle Außenwände gelenkig, innenwände wegen dem Feldmoment festeingespannt.
 
 würden wir uns das eine Stück der Decke jetzt herausschneiden, sähe das jetzt so aus :
 
-![200](Bilder/Baukonstruktionslehre/IMG_6E7F68E2C05F-1.jpeg)
+![200](Baukonstruktionslehre/Bilder/IMG_6E7F68E2C05F-1.jpeg)
 
 nun können wir auch direkt unsere Lasteinzugsflächen einzeichnen... dort gilt stets:
 
