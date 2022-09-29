@@ -14,6 +14,6 @@ Folgendende Notitzen exisiteren bereits:
 
 [[Mechanik B ⚙️]]
 
-[[Vermessungskunde]]
+[[Vermessungskunde 📏]]
 
 
