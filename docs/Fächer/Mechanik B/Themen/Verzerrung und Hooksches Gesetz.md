@@ -72,30 +72,31 @@
 - Der allg. Verzerrungszustand ist ein Tensor 2. Stufe (wie bei Spannungen)
 ⇒ Verschiebungsgradient ^^
 
-- ![[IMG_E17106B2BD5F-1.jpeg]]
+![[IMG_E17106B2BD5F-1.jpeg]]
 
 - ε ist immer symmetrisch
 - Nun unterteilt man zwischen den “Normalen-Komponenten”, und “Neben-Komponenten”.
+
 **Normalenkomponenten (Verzerrung):**
 
-- ![[IMG_879E6C317FC6-1.jpeg]]
+![[IMG_879E6C317FC6-1.jpeg]]
 
-⇒Leichtes muster was man sich merken kann ^^
+↳ Leichtes muster was man sich merken kann ^^
 
-- ![[IMG_6E8F7D9436F2-1.jpeg]]
+![[IMG_6E8F7D9436F2-1.jpeg|300]]
 
 **Nebenkomponenten(Scherung):**
 
-- ![[IMG_CA080AB61F96-1.jpeg]]
+![[IMG_CA080AB61F96-1.jpeg]]
 
 - bei den Nebendiagonalen muss man ein wenig vorsichtig sein ^^
 - auf den Verschiebungsgradientenmatrix achten !!, erst (Zeile , Spalte) und dann durch das Transponierte (Spalte , Zeile).
 - die Klammer wird ersetzt durch ein γ ersetzt
 
-- ![[IMG_5BFC1CEF2725-1.jpeg]]
+![[IMG_5BFC1CEF2725-1.jpeg]]
 
 
-⇒ Genau wie bei der Spannung, hat man auch “Hauptzerrungen”, “Schubzerrungen” und Morscher Kreis ^^
+↳ Genau wie bei der Spannung, hat man auch “Hauptzerrungen”, “Schubzerrungen” und Morscher Kreis ^^
     
 **Verallgemeinetes Elastitätsgesetz:**
 
@@ -106,13 +107,13 @@
 
 Beispielaufgabe:
 
-![[IMG_2CE3B33D88A8-1.jpeg|300]]
+![[IMG_2CE3B33D88A8-1.jpeg]]
         
-- **Hookisches Gesetz mit Temparatureinwirkungen:**
-    - Neben Spannungen kann auch ein Wärmeeinfluss zu Dehnungen im Bauteil führen.
-    - Um dies formal zu erfassen, gilt es das Hookesche Gesetz um einen weiteren (thermischen) Term zu ergänzen.
+**Hookisches Gesetz mit Temparatureinwirkungen:**
+- Neben Spannungen kann auch ein Wärmeeinfluss zu Dehnungen im Bauteil führen.
+- Um dies formal zu erfassen, gilt es das Hookesche Gesetz um einen weiteren (thermischen) Term zu ergänzen.
     
-    - ![[IMG_BF780407FA07-1.jpeg]]
-    
-    - Die Spannung ändert sich nie, die Verformung aber wohl.
-    - Erst bei Behinderung der Verzerrung, z.B bei entsprechende Lagerung (z.B Feste einspannug) entstehen Spannungen (Risse, Dehnfugen).
+![[IMG_BF780407FA07-1.jpeg]]
+
+- Die Spannung ändert sich nie, die Verformung aber wohl.
+- Erst bei Behinderung der Verzerrung, z.B bei entsprechende Lagerung (z.B Feste einspannug) entstehen Spannungen (Risse, Dehnfugen).
