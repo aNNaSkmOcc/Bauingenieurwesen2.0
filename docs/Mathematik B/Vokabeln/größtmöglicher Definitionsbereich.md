@@ -1,0 +1,3 @@
+# größtmöglicher Definitionsbereich
+
+Der größtmögliche Definitionsbereich, schließt kritische Stellen aus, die dafür sorgen könnten, dass der Funktionswert im Definitionsbereich nicht definiert ist. Wenn an keine Brüche hat, braucht man sich eigentlich keine sorgen machen, dann ist die Funktion definiert auf ganzem bereich. Wenn man aber brüche hat, muss man drauf achten, dass der Nenner nicht 0 wird.

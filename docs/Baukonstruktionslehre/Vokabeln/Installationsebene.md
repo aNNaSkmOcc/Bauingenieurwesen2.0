@@ -1,0 +1,2 @@
+# Installationsebene
+Die Installationsebene dient als zusätlicher Schutzschild bzw ein Puffer für die Dampfsperre vor möglichen Schädigungen. Dort werden auch unter anderem Installationen wir Steckdosen, Schalter etc. angebracht. Man kann auch hingehen und dahinter mit der Dämmung füllen... das dient dann nochmal zusätzlich als Dämmschicht quasi
