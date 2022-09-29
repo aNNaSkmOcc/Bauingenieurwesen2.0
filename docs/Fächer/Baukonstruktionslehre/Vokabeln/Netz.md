@@ -8,5 +8,5 @@
 - Nun ist die plane permanent auf Spannung :).
 - nun ist sie fest, fliegt also nicht weg und man kann zumbeispiel regen drauf machen und es passiert nichts
 
->[!TIP] ist erst eher im Master relevant
+>💡 ist erst eher im Master relevant
 

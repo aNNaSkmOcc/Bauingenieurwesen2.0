@@ -3,7 +3,7 @@
 Hier wirds interessant, die klassischste form des Daches ist das sogenannte
 Satteldach
 
-![IMG_901D4673B269-1](Bilder/Baukonstruktionslehre/IMG_901D4673B269-1.jpeg)
+![[IMG_901D4673B269-1.jpeg]]
 
 Man kann sich das einfach vorstellen, wie jemand aufm Pferd sitzt und seine Beine links und rechts hat.
 

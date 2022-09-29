@@ -16,4 +16,6 @@ Folgendende Notitzen exisiteren bereits:
 
 [[Vermessungskunde 📏]]
 
+[[Statik 🌉]]
+
 

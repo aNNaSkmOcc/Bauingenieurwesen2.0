@@ -13,7 +13,7 @@ Außerdem, es soll natürlich auch von der Statik her passen und uns nicht einkr
 
 Zunächst einmal ist es wichtig ein Paar Grundbegriffe zu kennen:
 
-![](Bilder/Baukonstruktionslehre/210817_fenster_aufbau-19.jpg)
+![[210817_fenster_aufbau-19.jpg]]
 
 Fenster, gibt es in unterschiedliche Materialien und Bauweisen, unterschiedliche Verglasungen und uterschiedliche Isolierungen, die alle ihre Vor- und Nachteile haben.
 
@@ -21,7 +21,7 @@ Grundsätzlich besteht ein Fenster aus Kunststoff, Alu, Stahl, oder immer so ein
 
 Im Häuserbau sind eher die Kunststofffenster, also sogenannte PVC-Fenster üblich :)
 
-![250](Bilder/Baukonstruktionslehre/IMG_EACD297CC7E0-1.jpeg) 
+![[IMG_EACD297CC7E0-1.jpeg|250]] 
 
 Der Vorteil ist natürlich, dass es günstig ist. Es beinhaltet Kammern für den Wärmeschutz, und Schallschutz. Außerdem sind da Robuste schienen drinnen, die den Rahmen Tragfähiger machen sollen.
 
@@ -31,23 +31,23 @@ Außerdem Unterscheiden sich Fenster nach der Bauweise.... Es gibt:
 - Verbundfenster (haben eine Lücke für z.B Rollokästen)
 - Kastenfenster (Auf einem Fenster ist noch ein Fenster)
 
-![](Bilder/Baukonstruktionslehre/IMG_E34FA497CCC0-1.jpeg)
+![[IMG_E34FA497CCC0-1.jpeg]]
 
 Auf einer Zeichnung im Grundschnitt gibt es auch ein paar Vokabeln die man kennen sollte:
 
-![600](Bilder/Baukonstruktionslehre/IMG_2600AB606DFD-1.jpeg)
+![[IMG_2600AB606DFD-1.jpeg|600]]
 
 Es gibt sehr viele verschiedene Fensterarten von der Normalen Fensterverglasung, bis hin zum Hebeschiebfenster... wie zeichnet man denn diese Öffnungs, dessen Öffnungen alle unterschiedlich sind. Damit man die nicht auch falsch einbaut, muss man ja auch einzeichnen, wie die Fenster sich öffnen. 
 
 Zunächst eine kleine Sache, das sogenannte <mark style="background: #BBFABBA6;">**DIN Links**</mark> und <mark style="background: #ADCCFFA6;">**DIN Rechts**</mark> :
 
-![](Bilder/Baukonstruktionslehre/IMG_AEB7A5846BD0-1.jpeg)
+![[IMG_AEB7A5846BD0-1.jpeg]]
 
 Die breiten seite. kann man sich eher wie die scharniere und die spitze wie das Fenstergrif vorstellen.
 
 Das sind die Arten von Fensteröffnungen: 
 
-![](Bilder/Baukonstruktionslehre/IMG_974D3E3D9817-1.jpeg)
+![[IMG_974D3E3D9817-1.jpeg]]
 
 Es gibt immer eine Ansicht von draußen und von drinnen.
 
@@ -68,7 +68,7 @@ Jetzt ist es noch wichtig, die Lage der Fesnter.... ist es ein **außenbündiges
 
 die alle haben auch wieder seine vor und Nachteile... jeder von denen hat seine Kritischen stellen aka. die eckpunkte: 
 
-![](Bilder/Baukonstruktionslehre/IMG_9EE8021905B1-1.jpeg)
+![[IMG_9EE8021905B1-1.jpeg]]
 
 Kritische Stellen sind die eckpunkte. Diese sind schwer erreichbar und müssen deswegen gut gedämmt sein.
 

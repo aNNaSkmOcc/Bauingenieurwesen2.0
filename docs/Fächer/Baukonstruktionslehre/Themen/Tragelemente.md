@@ -27,7 +27,7 @@
 ---
 
 >💡Moral der ganzen Geschichte: 
-	Es gibt viele verschiedene Dinge, Lasten abzutragen.
+>Es gibt viele verschiedene Dinge, Lasten abzutragen.
 
 
 - Wichtige PDFs (ab und zu auch mal durchlesen ^^)

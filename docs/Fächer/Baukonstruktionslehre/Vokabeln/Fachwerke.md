@@ -9,32 +9,34 @@
 #### Herleitung Fachwerk
 - Nehmen wir mal an, dass wir eine Scheibe haben, und diese oben Belasten:
 
-	![IMG_97E9EB5FFEA6-1.jpeg|300](Bilder/Baukonstruktionslehre/IMG_97E9EB5FFEA6-1.jpeg)
+	![[IMG_97E9EB5FFEA6-1.jpeg|300]]
 
 - Wie sähe dann die Drucklinie aus ?:
 
-	![IMG_0145.jpg|300](Bilder/Baukonstruktionslehre/IMG_0145.jpg)
+	![[IMG_0145.jpg|300]]
 
 - Wenn wir jetzt die Ecke wegnehmen, die eh unbelastet sind und die beiden Ecken noch nach unten befestigen erhalten wir:
 
-	![IMG_AF4DF98BA295-1.jpeg|300](Bilder/Baukonstruktionslehre/IMG_AF4DF98BA295-1.jpeg)
+	![[IMG_AF4DF98BA295-1.jpeg|300]]
 
-- Das ist dann ein sogenannter Fachwerkstab :)</mark> 
-- Die Besonderheit des Fachwerks
-	- Die besonderheit des Fachwerks, sind die Dreiecke
+- Das ist dann ein sogenannter Fachwerkstab :)
 
-		![IMG_0661FE4A373D-1.jpeg|400](Bilder/Baukonstruktionslehre/IMG_0661FE4A373D-1.jpeg)
 
-	- Das dreieck links, ist ein ideal gelagertes Dreieick
-	- Die Dehnsteifigkeit dessen ist soo hoch, dass wenn von der Seite eine Last kommen würde, das dreieck sich 0 bewegt.
-	- Dreieicke sind für die Aussteifung eines Gebäudes ein sehr wichtiger Bestandteil, den man verstehen muss ^^
-	>[!TIP] Fazit: Man kann also jede Scheibe, als ein Fachwerk approximieren!!
+#### Die Besonderheit des Fachwerks
+- Die besonderheit des Fachwerks, sind die Dreiecke
 
-> Wieso werden Fachwerke so hoch ?
+	![[IMG_0661FE4A373D-1.jpeg|400]]
+
+- Das dreieck links, ist ein ideal gelagertes Dreieick
+- Die Dehnsteifigkeit dessen ist soo hoch, dass wenn von der Seite eine Last kommen würde, das dreieck sich 0 bewegt.
+- Dreieicke sind für die Aussteifung eines Gebäudes ein sehr wichtiger Bestandteil, den man verstehen muss ^^
+>💡 Fazit: Man kann also jede Scheibe, als ein Fachwerk approximieren!!
+
+#### Wieso werden Fachwerke so hoch ?
 
 - Gucken wir uns dazu mal folgende Wand an:
 
-	![IMG_B864BA5AB18F-1.jpeg|350](Bilder/Baukonstruktionslehre/IMG_B864BA5AB18F-1.jpeg)
+	![[IMG_B864BA5AB18F-1.jpeg|350]]
 
 - Wir haben also wieder eine Wand, die wir als ein Fachwerk approximieren können. Klar, wenn eine wand belastet wird, erfährt sie ein Biegemoment, welches sich mit der Formel $M = \frac{q*l^2}{8}$ berechnen lässt.
 - Um jetzt die Zug bzw. -Druck zu messen, gibt es eine einfache Faustformel, welche lautet: $Z = -D = \frac{M}{h}$.

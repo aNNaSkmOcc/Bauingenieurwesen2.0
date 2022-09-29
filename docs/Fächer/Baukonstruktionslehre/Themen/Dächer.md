@@ -8,7 +8,7 @@ Jäger brauchten ein Zufluchtsort, der mit ihnen reisen und Wachsen konnte. Dies
 
 ---
 
-##### Geneigte Dächer
+#### Geneigte Dächer
 
 Naja, natürlich gibt es viele verschiedene Dacharten für geneigte Dächer
 
@@ -27,7 +27,8 @@ Nun, was macht man denn bei einer Riesen Industriehalle, wenn man es zu der dama
 >💡 Nun ist ja alles schön und gut, wir wissen wie Dächer aussehen aber wie werden diese denn gebaut ?
 
 Ja ok davor müssen wir aber noch ein paar Grundbegriffe klären:
-![Bauko_Übung 5.1-Geneigte Dächer-Einführung_SoSe2021_309a2be5c3a9e2f536b7eeb20081a539](Bilder/Baukonstruktionslehre/Bauko_%C3%9Cbung%205.1-Geneigte%20D%C3%A4cher-Einf%C3%BChrung_SoSe2021_309a2be5c3a9e2f536b7eeb20081a539.jpeg)
+![[Bauko_Übung 5.1-Geneigte Dächer-Einführung_SoSe2021_309a2be5c3a9e2f536b7eeb20081a539.jpeg]]
+
 - **First** ist der höchste Punkt. **Traufe** der niedrigste ^a42b43
 - **Giebelfläche** ist die Fläche die bis zum Dachfirst geht. 
 - **Grat** ist der Knick außen, **Kehle** ist der knick innen ^3f50ee
@@ -64,13 +65,13 @@ Wie macht man es?
     4. Nachdem die Spachtelmasse getrocknet ist, tut man die Spachtelmasse so lange schleifen, bis sie eben mit der Wand ist.
     5. Nun kann man die Wand entweder nach belieben bemalen oder tapezieren.
 
-		--- 
+	--- 
 
 **Dachgeschossaufbau 2. :** Möglichkeit (Fermacell: Ein-Mann-Platte)
-1. Auch hier wieder alle Lücken mit [[Zwischensparrendämmung|Zwischensparrendämmung]] füllen
-2. Danach wieder die [[Dampfsperre - Dampfbremse|Dampfsperre - Dampfbremse]] dran und die Bahnen (Überlappungen) abkleben.
+1. Auch hier wieder alle Lücken mit [[Zwischensparrendämmung]] füllen
+2. Danach wieder die [[Dampfsperre - Dampfbremse]] dran und die Bahnen (Überlappungen) abkleben.
  
->[[Blower door test]] machen, um zu schauen ob auch alles dicht ist.
+>💡[[Blower door test]] machen, um zu schauen ob auch alles dicht ist.
     
 1. Anschließend Kommten dann [[Traglattung|Traglattungen]] aus Holz dran. Sind diese nicht gerade, so tut man sie mit Holzstücken unterfüttern.
 2. Optional: Hier könnte man jetzt wieder [[Untersparrendämmung|Untersparrendämmung]]      
@@ -92,7 +93,7 @@ Sooo wenn wir unser Dach jetzt also ausgebaut haben, können wir natürlich auch
 Außerdem soll ein Dach ja auch dazu dienen, das Wasser abzuleiten, ergo: das Wasser soll so schnellst wie möglich runter. Wie bei einem Regenschirm. Dies macht man mit [[Regenrinnen|Regenrinnen]]
 
 ---
-##### Flachdächer
+#### Flachdächer
 
 
 Das alles war aber für geneigte Dächer. Wie sieht es bei einem Flachdach aus ? Wofür baut man überhaupt ein flachdach? Kann ich auch einfach ein Pfetten oder ein Sparrendach als [[Flachdach]] bauen ? Das alles schauen wir uns hier mal an.
