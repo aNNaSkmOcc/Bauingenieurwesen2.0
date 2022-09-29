@@ -92,7 +92,7 @@ Zwar wissen wir wie wir jetzt Mauern... allerdings gibt es mehrere möglichkeite
 
 <mark style="background: #FFB86CA6;">**Es gibt folgende Verbandsarten:**</mark> 
 - [[Läuferverband|Läuferverband]]
-- [[Binderverband|Binderverband]]
+- [[Binderverband]]
 - [[Blockverband|Blockverband]]
 - [[Kreuzverband|Kreuzverband]]
 - [[Gotischer Verband|Gotischer Verband]]

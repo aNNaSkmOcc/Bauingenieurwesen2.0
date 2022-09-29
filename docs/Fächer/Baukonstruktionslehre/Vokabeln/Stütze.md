@@ -1,4 +1,4 @@
-![Bildschirmfoto_2022-04-05_um_18.45.45](Bilder/Baukonstruktionslehre/Bildschirmfoto_2022-04-05_um_18.45.45.png)
+![[Bildschirmfoto_2022-04-05_um_18.45.45.png]]
 
 >💡 Alles was Normalbelastet wird auf Druck und Gerade/Stabförmig ist nennt man Stütze bzw. bei rund eine Säule
 

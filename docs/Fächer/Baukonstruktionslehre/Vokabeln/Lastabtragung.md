@@ -6,14 +6,13 @@
 ^760014
 
 schauen wir uns mal folgenden Grunriss an:
-
-![400](Baukonstruktionslehre/Bilder/IMG_B5706355AD3D-1%202.jpeg)
+![[IMG_B5706355AD3D-1 2.jpeg|400]]
 
 sagen wir, wir wollen mal einen Horizontalen Schnitt machen :D
 
 Dann sähe unser Durchlaufträger nämlich so aus:
 
-![[Baukonstruktionslehre/Bilder/IMG_7DC2025953CB-1.jpeg]]
+![[IMG_7DC2025953CB-1.jpeg]]
 
 Wenn wir etwas nicht fest einspannen, dann ist es gelenkig gelagert. 
 
@@ -27,19 +26,19 @@ Ergo: die ganzen Innenwände sind also Fest eingespannt gelagert....
 
 Gucken wir uns noch eine Wand an:
 
-![200](Baukonstruktionslehre/Bilder/IMG_FA9FB3E61975-1.jpeg)
+![[IMG_FA9FB3E61975-1.jpeg|200]]
 
 Auch hier wieder das Prinzip von oben: alle Außenwände gelenkig, innenwände wegen dem Feldmoment festeingespannt.
 
 würden wir uns das eine Stück der Decke jetzt herausschneiden, sähe das jetzt so aus :
 
-![200](Baukonstruktionslehre/Bilder/IMG_6E7F68E2C05F-1.jpeg)
+![[IMG_6E7F68E2C05F-1.jpeg]]
 
 nun können wir auch direkt unsere Lasteinzugsflächen einzeichnen... dort gilt stets:
 
-- Wenn die lager an einer Ecke gleich sind, dann ist das Verhältnis 1:1 und man zeichnet den Strich im 45° winkel.
+1. Wenn die lager an einer Ecke gleich sind, dann ist das Verhältnis 1:1 und man zeichnet den Strich im 45° winkel.
 
-- Wenn die Lager an einer Ecke ungleich sind, dann ist das Verhältnis 1:2... Dann zeichnet man kein 45° Winkel, sondern man Zeichnet den Strich näher zu dem Festlager :D
+2. Wenn die Lager an einer Ecke ungleich sind, dann ist das Verhältnis 1:2... Dann zeichnet man kein 45° Winkel, sondern man Zeichnet den Strich näher zu dem Festlager :D
 
 
 Durch die Stützmomente verstehen wir, dass bei denen der Zug oben ist. Wieso ist dass den Wichtig?
