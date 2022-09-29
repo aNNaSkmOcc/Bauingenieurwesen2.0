@@ -3,14 +3,14 @@
 >[!TIP] Eine wichtige Seite dafür ist:
 >[[https://www.studyhelp.de/online-lernen/mechanik/flaechentraegheitsmomente-bestimmen/#_ftn1]]
 
-#####  **Das Flächenträgheitsmoment aka. das mystische I**
+####  **Das Flächenträgheitsmoment aka. das mystische I**
 
->[!TIP] Das Flächenträgheitsmoment, ist der Querschnittsbedingte Wiederstand, gegen die Verformung in Querrichtung.
+>💡 Das Flächenträgheitsmoment, ist der Querschnittsbedingte Wiederstand, gegen die Verformung in Querrichtung.
     
     
 - Axiales Flächenträgheitsmoment (Der Wiederstand gegen normale Biegung):
         
-	- ![[Flächenträgheitsmoment und Biegelinie 8ada733f9b6c4e0eb7fb108425d9c9f6/IMG_994DEFE1CAD4-1.jpeg|IMG_994DEFE1CAD4-1.jpeg]]
+	- ![[Flächenträgheitsmoment und Biegelinie 8ada733f9b6c4e0eb7fb108425d9c9f6/IMG_994DEFE1CAD4-1.jpeg|IMG_994DE.jpeg]]
         
 	- Je nachdem wie das Koordinatensystem des Schwerpunkts geht, nimmt man für die horizontale Achse den index an
 	- z.B wenn im Schwerpunkt die y-Achse horizontal ist und die z-Achse vertikal, nimmt man $I_y$
