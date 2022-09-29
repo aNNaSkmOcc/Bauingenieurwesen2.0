@@ -13,7 +13,7 @@ sagen wir, wir wollen mal einen Horizontalen Schnitt machen :D
 
 Dann sähe unser Durchlaufträger nämlich so aus:
 
-![IMG_7DC2025953CB-1](Bilder/Baukonstruktionslehre/IMG_7DC2025953CB-1.jpeg)
+![[Bilder/Baukonstruktionslehre/IMG_7DC2025953CB-1.jpeg]]
 
 Wenn wir etwas nicht fest einspannen, dann ist es gelenkig gelagert. 
 
