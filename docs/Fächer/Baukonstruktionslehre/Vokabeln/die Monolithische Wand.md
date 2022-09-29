@@ -1,7 +1,7 @@
 # Die Monolithische Wand
 
 ---
-##### Allgemeines
+#### Allgemeines
 
 Die Monolithische Wand ist die einfachste und beliebteste Wand unter den Architekten.
 

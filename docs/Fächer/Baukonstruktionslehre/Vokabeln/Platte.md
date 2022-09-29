@@ -1,6 +1,6 @@
->[!TIP] Ebene, Flächenförmige Tragwerke, die Querbelastet werden (also senkrecht zur Mittelfläche belastet werden) nennt man Platte.
+>💡 Ebene, Flächenförmige Tragwerke, die Querbelastet werden (also senkrecht zur Mittelfläche belastet werden) nennt man Platte.
 
-![](Bilder/Baukonstruktionslehre/IMG_F81F68E52183-1.jpeg)
+![[IMG_F81F68E52183-1.jpeg]]
 Eine Sonderform ist die vollflächig aufgelagerte Platte (Fundamentplatte). Dieser wird nicht nur am Rand, sondern über die komplette Fläche gelagert.
 
 #### Lagerung:
@@ -10,12 +10,12 @@ Eine Sonderform ist die vollflächig aufgelagerte Platte (Fundamentplatte). Dies
 - fehlt eine Lagerung wird es freie lagerung genannt.
 
 #### Wann wird wie gelagert?
-![300](Bilder/Baukonstruktionslehre/IMG_2FB98ED5123B-1.jpeg)
+![[IMG_2FB98ED5123B-1.jpeg|300]]
 - Ganz oben haben wir Schnitt einer Wand. Dies ist nur ein Abschnitt, wie verformt der sich jetzt, wenn wir auf der Decke eine verteilte Nutzlast einwirken ?
 - Klar er würde sich nach unten verbiegen. Verbiegen bedeutet, er will sich oben zusammen ziehen und unten strecken, dass heißt insgesamt dreht sich die Decke, also gelenkig. Kann man denn also immer Gelenkig lagern? natürlich nicht :)
-![IMG_FADAD01926C0-1](Bilder/Baukonstruktionslehre/IMG_FADAD01926C0-1.jpeg)
+![[IMG_FADAD01926C0-1.jpeg]]
 - Diesmal haben wir hier 2 Garagen nebeneinander... gucken wir uns mal den Schnitt an ^^
-![300](Bilder/Baukonstruktionslehre/IMG_75930354E9DF-1.jpeg)
+![[IMG_75930354E9DF-1.jpeg|300]]
 - Oben sieht man den Schnitt der Trennwand. würde man da jetzt eine verteilte Last einwirken, würde es sich ja zu einem Bogen biegen.
 
 #### Lastverteilung Platten:

@@ -1,5 +1,5 @@
 # Druckbogen
->[!TIP] Ein Stab, dessen Achse gekrümmt ist und mit 2 lagern 2-wertig gelagert sind, nennt man Bogen.
+>💡 Ein Stab, dessen Achse gekrümmt ist und mit 2 lagern 2-wertig gelagert sind, nennt man Bogen.
 
 - Der Druckbogen möchte sich immer ausdehnen
 - Aufgrund der [[Lastabtragung]] , wirken auch Horizontale Lasten auf die Lager.
