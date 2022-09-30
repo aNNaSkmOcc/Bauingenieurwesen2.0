@@ -1,6 +1,8 @@
 # 2022
 
-## Sommersemester 2022
+### Sommersemester 2022
+
+^21881c
 
 **12.07.2022: **
 - allg. Grundlagen, Gesteinskörnung wiederholt und Zement auswendig gelernt.
@@ -35,4 +37,8 @@
 - Alle Fragen in Obsidian übertragen und nebenbei bisschen selber gelöst :D
 
 ---
+
+### Wintersemester 22/23
+
+^7d5aeb
 
