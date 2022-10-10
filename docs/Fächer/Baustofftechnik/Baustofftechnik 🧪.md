@@ -1,16 +1,16 @@
-## Grundlagen:
+### Grundlagen:
 
 [[🥱 Allgemeine Grundlagen]]
 
 ---
 
-## Beton (Visko-elastisch):
+### Beton (Visko-elastisch):
 
 [[🛣 Beton]]
 
 ---
 
-## Mauerwerk/Mörtel
+### Mauerwerk/Mörtel
 
 [[🧱 Mauerwerk]]
 
@@ -18,30 +18,30 @@
 
 ---
 
-## Holz
+### Holz
 
 [[🪵 Holz]]
 
 ---
 
-## Glas
+### Glas
 
 [[🍷 Glas]]
 
 ---
 
-## Stahl
+### Stahl
 
 [[🔩Stahl]]
 
 ---
 
-## Kunststoff
+### Kunststoff
 
 [[🕹 Kunststoff]]
 
 ---
 
-## Bitumen 
+### Bitumen 
 
 [[Bitumen 🛢]]

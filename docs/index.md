@@ -4,9 +4,13 @@ Das sind Enes seine notitzen :) Schätz dich glücklich und sei dankbar dafür w
 
 Folgendende Notitzen exisiteren bereits:
 
-[[Baukonstruktionslehre 📐]]
-
 [[Bauphysik 🔥]]
+
+[[Vermessungskunde 📏]]
+
+[[Baustofftechnik 🧪]]
+
+[[Baukonstruktionslehre 📐]]
 
 [[Informatik 🧑🏽‍💻]]
 
@@ -14,8 +18,8 @@ Folgendende Notitzen exisiteren bereits:
 
 [[Mechanik B ⚙️]]
 
-[[Vermessungskunde 📏]]
-
 [[Statik 🌉]]
+
+[[Bodenmechanik und Grundbau 🌍]]
 
 
