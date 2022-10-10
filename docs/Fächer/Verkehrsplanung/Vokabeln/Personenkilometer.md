@@ -1,0 +1,1 @@
+Personenkilometer ist eine Einheit im Verkehrswesen, die einfach nur sagt, dass eine Person 1 Kilometer sich bewegt.
