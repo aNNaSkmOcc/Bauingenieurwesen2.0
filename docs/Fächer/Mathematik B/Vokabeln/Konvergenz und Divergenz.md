@@ -18,4 +18,5 @@
 
 - Eine reihe, dessen Folgenglieder man tauschen kann und sie trotzdem konvergent ist, ist eine absolut Konvergente Reihe^^
 
-[[Konvergenzkriterien]]
+Wie zeigt man aber jetzt, dass eine Reihe konvergent oder divergent ist ?
+Das machen wir anhand von [[Konvergenzkriterien]]
