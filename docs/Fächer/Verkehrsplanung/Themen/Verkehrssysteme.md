@@ -11,7 +11,7 @@ Die wichtigsten Verkehrssysteme sind:
 - **Luftverkehr**
 - **Schifffahrt**
 
-Aber auch Rohrleitungssysteme, sind Verkehrssysteme, weil Wasser Transportiert wird. Damit beschäftigen wir uns aber im fach [[Strömungsmechanik 🌊]].
+Aber auch **Rohrleitungssysteme**, sind Verkehrssysteme, weil Wasser Transportiert wird. Damit beschäftigen wir uns aber im fach [[Strömungsmechanik 🌊]].
 
 ---
 
@@ -23,9 +23,9 @@ Oben zeigt es, wie viel Verkehr von Personen stattfindet und unten zeigt es, wie
 
 Oben in der Grafik ist die Einheit vom Personenverkehr in [[Personenkilometer]].  Und da können wir sehen, dass der Personenverkehr mit dem **PKW**  ca. 80% ausmachen.
 
-Bei der unteren Grafik ist die Einheit in [[Tonnenkilometer]], und auch da sehen wir, dass am meisten mit LKWs transportiert wird.
+Bei der unteren Grafik ist die Einheit in [[Tonnenkilometer]], und auch da sehen wir, dass am meisten mit LKWs transportiert wird, ca 70% macht das aus.
 
-Wir wir sehen, ist Verkehr wichtig. Im Fach Verkehrsplanung, beschäftigt man sich lediglich mit der Verkehrstechnik rund um die Straßen.
+>💡Wir wir sehen, ist Verkehr wichtig. Im Fach Verkehrsplanung, beschäftigt man sich lediglich mit der Verkehrstechnik rund um die Straßen.
 
 
 
