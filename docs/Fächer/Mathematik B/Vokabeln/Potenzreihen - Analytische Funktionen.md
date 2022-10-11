@@ -1,5 +1,3 @@
-# Potenzreihen / Analytische Funktionen
-
 Eine Allgemeine Potenzreihe sieht so aus:
 
 ![[IMG_285DCE2B878E-1.jpeg]]

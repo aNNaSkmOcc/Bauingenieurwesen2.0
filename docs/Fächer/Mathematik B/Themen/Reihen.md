@@ -19,7 +19,7 @@
 
 - Wenn man das wort "Reihen" verstanden hat, und die wichtigen Reihen kennt, kann man nun Zeigen, ob eine Reihe "[[Konvergenz und Divergenz#^ecf60b|konvergent]]" oder "[[Konvergenz und Divergenz#^c34265|divergent]]" ist.
 
-- Wer geglaubt hat, dass es nur Reihen für Basen gibt der hat sich geirrt. Es gibt auch die sogenannten [[Potenzreihen - Analytische FunktionenPotenzreihen - Analytische Funktionen]]
+- Wer geglaubt hat, dass es nur Reihen für Basen gibt der hat sich geirrt. Es gibt auch die sogenannten [[Potenzreihen - Analytische Funktionen]]
 
 - Man kann aber auch wenn man lust dazu hat [[mit Reihen Rechnen]] ^^
 

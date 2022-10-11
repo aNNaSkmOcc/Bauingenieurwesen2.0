@@ -2,7 +2,7 @@
 
 1. [[Beton - Gesteinskörnung 🪨]]
 
-	1. [[Beton - Gesteinskörnung (Übung) 🪨|Übung - Gesteinskörnung]]
+	1. [[Beton - Gesteinskörnung (Übung) 🪨]]
 
 2. [[Beton - Bindemittel 🧪]]
 
