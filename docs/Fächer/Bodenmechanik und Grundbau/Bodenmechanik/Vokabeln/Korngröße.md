@@ -1,0 +1,1 @@
+Korngröße die Maschenweite des Siebes, durch die das Korn gerade noch durchfällt.
