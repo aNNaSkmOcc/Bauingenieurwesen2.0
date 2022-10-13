@@ -9,7 +9,7 @@ Wie gesagt, teilt sich das Modul in 2 kleinere Module. Welches ist jetzt wofür 
 >💡 Die **Bodenmechanik** ist eher die Theroie, wie der Boden so aufgebaut ist.
 
 
->💡 Der Grundbau ist letztlich die Anwendung des Grundbaus, worin man dann wirklich die Tragfähigkeit des Bodens bzw. der Gründung nachweist und die Gründung herstellt
+>💡 Der **Grundbau** ist letztlich die Anwendung des Grundbaus, worin man dann wirklich die Tragfähigkeit des Bodens bzw. der Gründung nachweist und die Gründung herstellt
 
 In den Folgenden links, kommt man dann zu den zwei verschiedenen Kursen:
 
