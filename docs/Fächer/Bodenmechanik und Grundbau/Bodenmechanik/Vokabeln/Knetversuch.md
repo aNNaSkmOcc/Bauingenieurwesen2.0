@@ -9,3 +9,7 @@ Irgendwann fängt die Probe beim auseinanderrollen an zu zerbröckeln...
 Ab da fangen wir an zu bewerten
 
 ![[IMG_5DB1D149A533-1.jpeg]]
+
+Für die berechnung der **Plastizitätszahl** bzw. der **Konsistenzzahl** braucht man das $w_P$
+
+>💡$w_P = \text{Mittelwert des Wassergehaltes aus 3 Versuchen}$ 
