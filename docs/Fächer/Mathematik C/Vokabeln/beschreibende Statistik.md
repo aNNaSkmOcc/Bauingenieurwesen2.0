@@ -1,0 +1,1 @@
+Die Beschreibende Statistik beschäftigt **immer** mit Daten die bereits gegeben sind.

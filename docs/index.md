@@ -26,4 +26,6 @@ Folgendende Notitzen exisiteren bereits:
 
 [[Hydrologie 🚰]]
 
+[[Mathematik C 🧮]]
+
 
