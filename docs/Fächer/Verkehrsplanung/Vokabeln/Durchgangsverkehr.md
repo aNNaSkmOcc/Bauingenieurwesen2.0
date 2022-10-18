@@ -1,0 +1,1 @@
+Der Durchgangsverkehr ist der Verkehr, der durch einen anderen Bezirk hindurchgeht.

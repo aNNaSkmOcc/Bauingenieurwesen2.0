@@ -1,0 +1,1 @@
+Bei den Objektzählungen, zählen wir auf einem Parkplatz stumpf alle Autos ab :)
