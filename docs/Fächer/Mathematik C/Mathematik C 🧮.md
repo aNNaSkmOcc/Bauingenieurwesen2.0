@@ -26,4 +26,10 @@ und
  
  Danach aber, haben wir was über die [[1. Numerische und Grafische Zusammenfassungen eindimensionaler Daten|numerische Zusammenfassung eindimensionaler Daten]] gelernt.
  
+ ### 2. Grundlagen der Wahrscheinlichkeitsrechnung
+ 
+ Wissen wir, was ein Boxplott undso diesdas ist, fangen wir endlich an Wahrscheinlichkeiten zu berechnen. Diese sind nämlich die Grundlagen für die [[schließende Statistik]] später.
+ 
+ Also, gucken wir uns : [[2. Grundlagen der Wahrscheinlichkeitsrechnung|Grundlagen der Wahrscheinlichkeitsrechnung]] an.
+ 
  
