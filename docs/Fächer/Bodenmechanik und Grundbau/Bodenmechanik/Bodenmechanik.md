@@ -5,3 +5,20 @@ Klar, bevor man natürlich anfängt über Gründung zu reden, muss man natürlic
 ### 3. Bodeneigenschaften und Bodenkenngrößen
 
 Jetzt ist das ja so, dass wir nachdem wir so ganz grob verstanden haben welche Bodenarten es gibt, auch wissen müssen, welche [[3. Bodeneigenschaften und Kenngrößen|Kenngrößen]] wichtig sind und welche es gibt :D
+
+### 4. Baugrunderkundung
+
+Bis jetzt haben wir drüber geredet welche Bodenarten es gibt und welche Kenngrößen wichtig sind. Diese waren wie du vielleicht gelesen hast sehr umfangreich.
+
+Allerdings wollen wir jetzt herausfinden, wie man denn erkennt, wie der Grund auf dem man etwas Bauen möchte [[4. Baugrunderkundung|aufgebaut]] ist:
+
+### 5. Wasser im Boden :D
+Joa :D Wir dürfen natürlich nicht Vergessen dass wir hier in Detuschland leben.
+
+Wo das Problem liegt ? Dass es gefühlt jeden Tag regnet amk. Naja zwar ist Regen geil denn dann kann man schön zuhause sitzen und chillen.
+
+Allerdings ist das weniger nice für unseren Boden auf dem wir Bauen möchten.
+
+schauen wir uns daher einmal [[5. Wasser im Boden|Wasser im Boden]] genauer an :d
+
+

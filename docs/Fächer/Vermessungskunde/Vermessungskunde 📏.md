@@ -1,6 +1,3 @@
-# Vermessungskunde 
-
----
 
 ### Praktikum 1
 

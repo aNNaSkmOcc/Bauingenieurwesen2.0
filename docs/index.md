@@ -2,7 +2,9 @@
 
 Das sind Enes seine notitzen :) Schätz dich glücklich und sei dankbar dafür wenn du sie hast, gib ihm ein Kuss auf die Stirn dafür
 
-Folgendende Notitzen exisiteren bereits:
+---
+
+Folgende Module Behandle ich im Bachelor:
 
 [[Bauphysik 🔥]]
 
@@ -28,4 +30,5 @@ Folgendende Notitzen exisiteren bereits:
 
 [[Mathematik C 🧮]]
 
+---
 
