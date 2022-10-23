@@ -1,0 +1,1 @@
+Die Hydrosphäre ist der Teil der Erde, die das ober und unterirdische Wasservorkommen umfasst.
