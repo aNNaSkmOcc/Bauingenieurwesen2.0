@@ -5,6 +5,8 @@
 
 ####  **Das Flächenträgheitsmoment aka. das mystische I**
 
+^a3b6bf
+
 >💡 Das Flächenträgheitsmoment, ist der Querschnittsbedingte Wiederstand, gegen die Verformung in Querrichtung.
     
     
