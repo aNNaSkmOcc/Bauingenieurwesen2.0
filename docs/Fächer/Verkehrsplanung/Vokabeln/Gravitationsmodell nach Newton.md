@@ -17,5 +17,5 @@ oder
 
 [[5.3.2 Iterationsmethode nach Mäcke]]
 
-auf.
+auf, womit wir dann quasi das innere der [[Fij-Matrix]] berechnen könnten.
 

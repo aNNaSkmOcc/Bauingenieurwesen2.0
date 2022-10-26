@@ -21,4 +21,10 @@ Allerdings ist das weniger nice für unseren Boden auf dem wir Bauen möchten.
 
 schauen wir uns daher einmal [[5. Wasser im Boden|Wasser im Boden]] genauer an :d
 
+### 6. Vertikale Spannungen im Boden
+
+Hier geht es diesmal um die [[6. Vertikale Spannungen im Boden|Spannungsverteilungen]] in einem Boden wenn ich eine Last aufbringe.
+
+Hier geht es um Setzungen... wie viele Setzungen brauche ich etc etc :D
+
 
