@@ -36,5 +36,19 @@ Außerdem betrachten wir in der hydrologie auch nur die oberen Einzugsgebiete an
 
 ---
 
-### 
+### Form der Einzugsgebiete
+
+Klar..... die Natur ist natürlich nicht symmetrisch. Auch ist es nicht zwingend notwendig dass Einzugsgebiete symmetrisch sind.
+
+Allerdings können wir anhand der Form des Einzugsgebietes paar Eigenschaften herausfinden :D
+
+Dazu gibt es zunächst einmal paar Formeln :
+
+![[IMG_86CF66E919DA-1.jpeg]]
+
+Diese können wir nutzen, und dann zu folgender Auswertung kommen :
+
+![[IMG_610276428393-1.jpeg]]
+
+Ein Beispiel dazu, findet man im dem 2. Skript der Vorlesung :D
 

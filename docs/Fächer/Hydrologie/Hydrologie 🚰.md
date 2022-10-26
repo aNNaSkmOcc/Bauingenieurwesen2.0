@@ -30,3 +30,6 @@ Bevor wir überhaupt mir der Hydrologie anfangen, ist es wichtig, dass wir uns n
 
 ### Das Einzugsgebiet
 [[Das Einzugsgebiet]] ermöglicht uns, bestimmte bereiche nach ihren hydrologischen Eigenschaften zu untersuchen
+
+### Niederschlag
+[[Der Niederschlag]], ist das aller wichtigste in der Hydrologie
