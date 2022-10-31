@@ -33,6 +33,6 @@ Wissen wir, was ein Boxplott undso diesdas ist, fangen wir endlich an Wahrschein
 Also, gucken wir uns : [[2. Grundlagen der Wahrscheinlichkeitsrechnung|Grundlagen der Wahrscheinlichkeitsrechnung]] an.
 
 ### 3. Kombinatorik
-Um jetzt sehr schnell, den Nenner bei einer Laplace Rechnung herauszufinden, gibt es die [[3. Kombinatorik|Kombinatorik]]
+Um jetzt sehr schnell, den Nenner bei einer Laplace Rechnung herauszufinden, gibt es die [[3. Kombinatorik|Kombinatorik]] ich hab die schon bei Frau Lukassen nicht verstanden, ich hoffe ich verstehe es hier im Studium haha
  
  
