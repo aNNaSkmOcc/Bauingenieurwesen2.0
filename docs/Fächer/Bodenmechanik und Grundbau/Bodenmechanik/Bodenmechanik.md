@@ -27,4 +27,7 @@ Hier geht es diesmal um die [[6. Vertikale Spannungen im Boden|Spannungsverteilu
 
 Hier geht es um Setzungen... wie viele Setzungen brauche ich etc etc :D
 
+### 8. Setzungsprognosen
+Wenn ich jetzt die 2 Zutaten, nämlich [[6. Vertikale Spannungen im Boden|Spannungsverteilung]] und Komprassiblität habe, kann ich nun einen Schritt weiter gehen, und [[8. Setzungsprognosen|Setzungsprognosen]] aufstellen.
+
 
