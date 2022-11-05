@@ -35,4 +35,7 @@ Also, gucken wir uns : [[2. Grundlagen der Wahrscheinlichkeitsrechnung|Grundlage
 ### 3. Kombinatorik
 Um jetzt sehr schnell, den Nenner bei einer Laplace Rechnung herauszufinden, gibt es die [[3. Kombinatorik|Kombinatorik]] ich hab die schon bei Frau Lukassen nicht verstanden, ich hoffe ich verstehe es hier im Studium haha
  
+ ### 4. Bedingte Wahrscheinlichkeiten
+ 
+Nun schauen wir uns das Thema [[4. Bedingte Warhscheinlichkeiten|Bedingte Wahrscheinlichkeiten]] an
  

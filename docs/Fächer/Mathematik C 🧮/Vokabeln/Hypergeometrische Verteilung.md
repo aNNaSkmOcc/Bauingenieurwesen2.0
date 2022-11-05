@@ -2,7 +2,7 @@ MIt der **Hypergeometrischen Verteilungsfunktion**, kann ich mit variablen rechn
 
 kleines Beispiel: Wenn ich 3 blaue kugeln habe und die Wahrscheinlichkeit berechnen möchte, dass ich 2 kugeln ziehe, ist die Wahrscheinlichkeit $\frac{1}{3}$ **für eine Blaue kugel**, aber nicht mehr für eine zweite blaue Kugel, weil ich ja auch eine blaue kugel weniger habe. 
 
-Für eine zweite Kugel müsste ich laut der [[Pfadregel]] zusätzlich mal $\frac{1}{2}$ rechnen.
+Für eine zweite Kugel müsste ich laut der [[Multiplikationsregel(Pfadregel)]] zusätzlich mal $\frac{1}{2}$ rechnen.
 
 schauen wir uns die Formel für die Hypergeometrische Verteilung doch an:
 
