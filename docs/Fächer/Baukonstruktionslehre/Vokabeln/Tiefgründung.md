@@ -20,6 +20,8 @@ Haben wir diese erreicht, so wird diese mit einem Kies-Sand-Gemisch oder Beton g
 
 ##### stehende Pfahlgründung (offener Senkkasten)
 
+^48b4e4
+
 Ohne irgendwie erst was zu erklären, schauen wir uns mal direkt ein Bild an:
 
 ![[IMG_973AEA7AAFE0-1.jpeg]]
