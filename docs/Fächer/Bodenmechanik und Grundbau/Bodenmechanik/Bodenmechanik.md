@@ -30,4 +30,11 @@ Hier geht es um Setzungen... wie viele Setzungen brauche ich etc etc :D
 ### 8. Setzungsprognosen
 Wenn ich jetzt die 2 Zutaten, nämlich [[6. Vertikale Spannungen im Boden|Spannungsverteilung]] und Komprassiblität habe, kann ich nun einen Schritt weiter gehen, und [[8. Setzungsprognosen|Setzungsprognosen]] aufstellen.
 
+### 9. Konsolidierung
+Naja... meistens habe ich im Boden sowohl Sand, als aber auch Ton..
+Ton verhält sich von der Kompressiblität her gaanz anders als Sand.
+Dieses Verhalten, schauen wir uns in der [[9. Konsolidierung|Konsolidierung]] an.
+
+
+
 
