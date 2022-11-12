@@ -7,3 +7,6 @@
 	2. [[2.2 Planungskonventionen|Planungskonventionen]]
 	3. [[2.3 Arbeitsschritte der Verkehrsplanung|Arbeitsschritte der Verkehrsplanung]]
 
+
+### Verkehrsflusstheorie
+Um nachher Verkehrssysteme messen zu können, brauchen wir natürlich ein Paar Grundlagen der [[8. Verkehrsflusstheorie|Verkehrsflusstheorie]]
