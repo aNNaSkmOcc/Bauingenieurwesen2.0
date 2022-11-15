@@ -38,4 +38,23 @@ Um jetzt sehr schnell, den Nenner bei einer Laplace Rechnung herauszufinden, gib
  ### 4. Bedingte Wahrscheinlichkeiten
  
 Nun schauen wir uns das Thema [[4. Bedingte Warhscheinlichkeiten|Bedingte Wahrscheinlichkeiten]] an
+
+### 5. Zufallsvariablen
+Diese Woche, sind die [[Zufallsvariablen]] dran.
+
+### Wichtige Wahrscheinlichkeitsverteilungen
+Wenn man mit Warhscheinlichkeiten rechnet, sollte man sich am besten, diese wichtigen Wahrscheinlichkeitsverteilungen anschauen:
+
+[[Gleichverteilung]]
+[[Binomelaverteilung]]
+[[Geometrische Verteilung]]
+
+
+### 6. Possionischer Grenzwertsatz
+[[Der Possionscher Grenzwertsatz]]
+
+### Erwartungswert und Varianz
+Eine seehr sehr wichtige Kenngröße, ist der [[Erwartungswert und Varianz]]
+
+
  

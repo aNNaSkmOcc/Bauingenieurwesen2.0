@@ -28,7 +28,7 @@ Also wir schauen uns ja die Klappe an. Die Klappe hat jedoch eine begrenzte län
 
 ![[Bildschirmfoto 2022-10-24 um 15.52.44.png]]
 
-stellen wir doch mal als erstes unsere [[4.1 Grundgleichung der Hydrostatik|Grundgleichung]] auf welche hier lauten würde:
+stellen wir doch mal als erstes unsere [[Grundgleichung der Hydrostatik|Grundgleichung]] auf welche hier lauten würde:
 
 $$p(z) = \rho \cdot g \cdot z$$
 
