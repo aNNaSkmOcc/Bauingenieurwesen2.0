@@ -88,5 +88,105 @@ Wir können direkt sagen, dass wenn wir wie hier in dem Beispiel, eine konstate 
 ### Geometrische Beziehungen
 Jetzt kommen wir zu den Geometrischen Beziehungen. Also von den inneren Weggrößen, zu dein äußeren Weggrößen.
 
-Zunächst einmal müssen wir verstehen, dass in der Balkentheorie zwei unterschiedliche Betrachtungsmöglichkeiten gibt. Einmal ist es die [[Bernoulli-Balkentheorie]] und die [[Tymoshenko-Balkentheorie]]
+Zunächst einmal müssen wir verstehen, dass in der Balkentheorie zwei unterschiedliche Betrachtungsmöglichkeiten gibt. Einmal ist es die [[Bernoulli-Balkentheorie]] und die [[Tymoshenko-Balkentheorie]].
+
+Da wir die Verdrehung bei der Tymoshenko auch 0 setzen können und somit direkt die Bernoulli-Theorie haben, betrachten wir zunächst die Tymoshenko Theorie.
+
+Schauen wir uns dazu noch ein Bild an:
+
+![[IMG_2D1F379527E4-1.jpeg]]
+
+Verschiebung werden bekanntlich mit u abgekützt.
+
+Klar... bei einer Verdrehung, werden die Punkte sich verschieben.
+
+Die Verschiebung des Punktes P, hat sowohl eine x, als auch eine y-Komponente.
+
+Wir wissen, wenn wir etwas in Komponenten aufteilen, haben wir direkt sinus und cosinus im Spiel. Das Problem ist, Sinus und Cosinus sind keine Linearen Funktionen... Verkaaackt :D
+
+Nee :D
+
+Wir betrachten zunächst einmal die Theorie I. 
+
+Die Theorie I besagt, dass wir sehr sehr kleine Verformungen haben. Somit nehmen wir an, dass alles immer nur sehr sehr sehr kleine Verformungen hat.
+
+Das hat den Vorteil, dass wir alles Linearisieren können welches uns das Leben vereinfacht :D
+
+>Dank der Theorie I, können wir annehmen dass
+>$cos(\alpha) \approx 1$
+>$sin(\alpha) \approx \alpha$
+
+Nun.. wenn wir dann das cos und sin einsetzen erhalten wir:
+
+![[IMG_C1FD3949E7A0-1.jpeg]]
+
+Das $u_x$ beschreibt nur das die verschiebung des Punktes P. Da sich der Mittelpunkt ja aber auch verschiebt, müssen wir das natürlich auch betrachten.
+
+Das macht die funktion $u_x(x,z)$. Der beschreibt die Bewegung des Punktes inkl. dem Mittelpunkt.
+
+Schauen wir uns aber doch mal die verschiebungen des Punktes doch mal genauer an:
+
+![[IMG_AE94C75BC3EB-1.jpeg]]
+
+Hier haben wir das Bild nochmal in ein wenig größer :D
+
+
+Wir haben auf die neutrale Faser eine Tangente gelegt.... Tangente ist nichts anderes als die Ableitung.
+
+die Tangente, hat natürlich eine Neigung zu der Neutralen Faser ($w_{z,x}$)
+
+Aueßrdem hab ich auf die neutrale Faser noch einen Normalenvektor gelegt.
+
+>Wir erinnern uns, der Normalenvektor ist immer Senkrecht
+
+Aber auch der Normalenvektor hat eine Neigung zu der Neutralen faser($\theta_y$)
+
+Nehmen wir jetzt diese Beiden Neigungen und addieren sie, erhalte ich die sog. **Schubdeformationen** oder auch **Gleitung** genannt.
+
+
+### Geometrische Beziehung - Ebener Balken
+
+Fassen wir das Eben gelerne also einmal zusammen:
+
+![[IMG_46B17C7E919A-1.jpeg]]
+
+Wir haben oben die [[Verzerrung und Hooksches Gesetz|Verzerrung]] aka. die Dehnung in Normalrichtung. 
+
+>Wie berechnen wir nochnal die Dehnung?
+>Aus der Ableitung der Verschiebung :D also $\frac{du}{dx}$
+
+Dann haben wir die Gleitung, die wir gerade ja gelernt haben
+
+>Wie berechnen wir nochmal die Gleitung?
+Da nehmen wir die Neigung der Tangente der Neutralen Faser $w_{z,x}$ + die Neigung des Normalvektors $\theta_y$
+
+Was wir noch haben, ist die Krümmung. Doch was ist die Krümmung ? 
+
+>*"Die Krümmung ist die Veränderung(Ableitung) des Drehwinkelts über die Gesamte länge"*
+
+>Wie berechnen wir also dann die Krümmung?
+>Wie wir bei der Dehnung die Ableitung der Verschiebungen haben, haben wir bei der Krümmung die Ableitung diesmal von dem Winkel.
+
+### Geometrische Beziehung - Räumlicher Balken
+Schauen wir uns jetzt einmal die Räumlichen Verzerrungen an, allgemein aus der  Konitnuumsmechanik kann man die Verzerrungen nämlich als ein Tensor darstellen:
+
+![[IMG_81ED1F49D177-1.jpeg]]
+
+Auf der Hauptdiagonale haben wir die <mark style="background: #FFB86CA6;">Normalverzerrungen</mark>, während wir auf den Nebendiagonalen die <mark style="background: #FFB86CA6;">Schubverzerrungen</mark> haben.
+
+Man könnte das jetzt alles berechnen bla bla bla :D 
+
+Ich erspar mir und dir lieber leser das und komme direkt mal zum Ergebnis:
+
+![[IMG_86A006800111-1.jpeg]]
+
+Nach viel rechnerrei undso, erhält man das dieses Ergebnis :D
+
+Man erhält den Spannungstensor :DDD
+
+
+
+
+
+
 
