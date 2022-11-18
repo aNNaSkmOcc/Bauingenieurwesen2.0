@@ -184,9 +184,26 @@ Nach viel rechnerrei undso, erhält man das dieses Ergebnis :D
 
 Man erhält den Spannungstensor :DDD
 
+Dass unten rechts die 4 Zahlen eine 0 steht liefert uns einfach den Beweis, dass es ein starrer Körper ist.
 
+Wenn wir das ganze jetzt noch weiter Ausmultiplizieren, haben wir folgende Gleichungen raus:
 
+![[IMG_AB041334FEB0-1.jpeg]]
 
+Zum einen haben wir die Verzerrung der Mittellinie, wir haben da einen Anteil der Dehnung in x-Richtung Anteile mit Krümmungen in y und z-Richtung.
 
+Dann habe ich natürlich auch meine Schubkomponenten.
 
+Die haben allerdings die schon bekannte Gleitung, oben in y Richtung unten in z richtung, und dann natürlich die Krümmung noch in x-Richtung :D
+
+### Zusammenfassung
+Hier haben wir also noch zusammenfassend unsere Verzerrungsresultierenden, in der x-z-Ebene.
+
+![[IMG_918F71AD6CD5-1.jpeg]]
+
+Dann haben wir natürlich noch um die y-z Achse:
+
+![[IMG_CD2ADEDFD608-1.jpeg]]
+
+![[IMG_0531E8976A7B-1.jpeg]]
 
