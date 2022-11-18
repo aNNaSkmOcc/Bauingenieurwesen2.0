@@ -1,0 +1,1 @@
+Die Bernoulli Balkentheorie, trägt seinen Namen zu Ehren des Mathematikers [Jakob I. Bernoulli](https://de.wikipedia.org/wiki/Jakob_I_Bernoulli)
