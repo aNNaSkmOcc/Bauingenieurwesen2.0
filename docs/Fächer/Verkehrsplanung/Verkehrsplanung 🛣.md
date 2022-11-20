@@ -10,3 +10,6 @@
 
 ### Verkehrsflusstheorie
 Um nachher Verkehrssysteme messen zu können, brauchen wir natürlich ein Paar Grundlagen der [[8. Verkehrsflusstheorie|Verkehrsflusstheorie]]
+
+### Autobahnen
+Kommen wir jetzt mal zu den Interesanteren Verkehrssystemen, nämlich den [[9. Autobahnen und Landstraßen|Autobahnen und Landstraßen]]

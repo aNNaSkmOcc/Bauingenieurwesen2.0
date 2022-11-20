@@ -13,4 +13,8 @@ Von Wasserbändigern, werden wir jetzt zum Luftbändiger. Wilkommen in der [[2. 
 
 In den letzten wochen, haben wir uns mit ruhenden Fluiden auseinandergesetzt. Schauen wir uns nun mal die [[3. Kinematik|Kinematik]] an
 
+### 4. Dynamik
+Wir haben in der Kinematik alles vorbereitet, um nun mit der [[4. Dynamik|Dynamik]] anzufangen.
+
+
 
