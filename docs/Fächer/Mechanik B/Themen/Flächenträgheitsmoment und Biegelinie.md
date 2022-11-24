@@ -98,6 +98,9 @@
 - ![[IMG_756FF7DAF415-1.jpeg]]
     
 ##### DGL der Biegelinie/Messung der Gebrauchstauglichkeit
+
+^4d9e1b
+
 - Wir nehmen dazu die [[Biege-normal-spannung|2. Bernoulli Hypothese]] und leiten sie ab, dann erhalten wir die Krümmung.
         
 - ![[IMG_4CF00BFAED2B-1.jpeg]]
