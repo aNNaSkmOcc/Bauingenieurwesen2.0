@@ -35,6 +35,9 @@ Naja... meistens habe ich im Boden sowohl Sand, als aber auch Ton..
 Ton verhält sich von der Kompressiblität her gaanz anders als Sand.
 Dieses Verhalten, schauen wir uns in der [[9. Konsolidierung|Konsolidierung]] an.
 
+### 10. Scherfestigkeit
+Jetzt kommen wir zu einem sehr wichtigen Thema, den wir auch im [[Grundbau]] benötigen werden, der [[10. Scherfestigkeit|Scherfestigkeit]]
+
 
 
 
