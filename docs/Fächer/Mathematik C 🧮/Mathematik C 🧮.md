@@ -56,5 +56,10 @@ Wenn man mit Warhscheinlichkeiten rechnet, sollte man sich am besten, diese wich
 ### Erwartungswert und Varianz
 Eine seehr sehr wichtige Kenngröße, ist der [[Erwartungswert und Varianz]]
 
+### 7. Normalverteilung
+[[7. Normalverteilung|Normalverteilung]] :D hat mir miese flashbacks gegeben haha
+
+
+
 
  

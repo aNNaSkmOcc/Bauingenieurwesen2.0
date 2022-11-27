@@ -18,5 +18,8 @@ Wir haben uns das ja so schön hergeleitet diesdas.... Allerdings, müssen wir d
 ### 4. Timoshenko vs Bernoulli
 Haben wir jetzt alle Fehler korrigiert, können wir uns jetzt ganz Konkret nochmal anschauen [[Tymoshenko-Theorie vs Bernoulli-Theorie]]
 
+### 5. Verformungen nicht unbedingt infolge Lasten
+EIn Tragwerk, verformt sich nur infolge einer Last glaubst du? haha ne :D
+[[5. Verformungen infolge Lastfreier Einwirkungen]]
 
 
