@@ -13,3 +13,6 @@ Um nachher Verkehrssysteme messen zu können, brauchen wir natürlich ein Paar G
 
 ### Autobahnen
 Kommen wir jetzt mal zu den Interesanteren Verkehrssystemen, nämlich den [[9. Autobahnen und Landstraßen|Autobahnen und Landstraßen]]
+
+### Kreuzungen
+Tja :D Gerade wenn es um Landstraßen oder Stadtstraßen geht, spielen die [[10. Vorfahrtgeregelte Knotenpunkte|Kreuzungen]] eine große Rolle :D
