@@ -38,6 +38,9 @@ Dieses Verhalten, schauen wir uns in der [[9. Konsolidierung|Konsolidierung]] an
 ### 10. Scherfestigkeit
 Jetzt kommen wir zu einem sehr wichtigen Thema, den wir auch im [[Grundbau]] benötigen werden, der [[10. Scherfestigkeit|Scherfestigkeit]]
 
+### 11. Erddruck
+Nun widmen wir uns mal endlich bisschen mehr der Praxis im Thema [[11. Erddruck|Erddruck]]
+
 
 
 
