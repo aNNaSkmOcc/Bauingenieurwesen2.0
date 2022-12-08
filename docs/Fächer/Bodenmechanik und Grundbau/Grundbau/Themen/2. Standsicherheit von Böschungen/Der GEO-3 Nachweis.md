@@ -134,4 +134,4 @@ Somit kommt dann das raus, was im gelben Kästchen steht.
 
 Joo :D schauen wir uns jetzt mal an, wie man denn eine Kreisförmgie Gleitfläche berechnet und nachweist.
 
-Man könnte das mit dem [[Geo-3 - Lamellenverfahren]]  oder mit dem [[Geo-3 - Lamellenverfahren]] machen.
+Man könnte das mit dem [[Geo-3 - Lamellenverfahren]]  oder mit dem [[Geo-3 - Lamellenfreiesverfahren]] machen.
