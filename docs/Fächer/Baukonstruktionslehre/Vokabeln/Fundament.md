@@ -14,8 +14,13 @@ Der Nenner größer.. also müssen wir die Fläche Größer machen. Und daaa kom
 
 Das heißt also, wir fügen der untersten Wand, die alle Lasten abbekommt eine Fläche dazu, weil um die Spannung zu verringern.
 
+### Flachgründung vs. Tiefgründung
+![[Bildschirm­foto 2022-12-09 um 15.27.33.png|400]]
+
 Wir haben 2 Arten von Fundament:
 
 Zunächst einmal, schauen wir uns die [[Flachgründungen]] an.
 
 Dann gibt es aber noch die [[Tiefgründung]]
+
+
