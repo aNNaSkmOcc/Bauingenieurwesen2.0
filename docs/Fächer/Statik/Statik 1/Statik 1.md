@@ -22,4 +22,6 @@ Haben wir jetzt alle Fehler korrigiert, können wir uns jetzt ganz Konkret nochm
 EIn Tragwerk, verformt sich nur infolge einer Last glaubst du? haha ne :D
 [[5. Verformungen infolge Lastfreier Einwirkungen]]
 
+### 6. Arbeitsprinzipien
+Schauen wir uns jetzt mal wieder die [[6. Energieprinzipien]] an.
 
