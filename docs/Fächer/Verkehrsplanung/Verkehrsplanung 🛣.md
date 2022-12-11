@@ -18,4 +18,4 @@ Kommen wir jetzt mal zu den Interesanteren Verkehrssystemen, nämlich den [[9. A
 Tja :D Gerade wenn es um Landstraßen oder Stadtstraßen geht, spielen die [[10. Vorfahrtgeregelte Knotenpunkte|Kreuzungen]] eine große Rolle :D
 
 ### Lichtsignalanlagen
-Letztens haben wir ja die Kreuzungen ohne Ampeln besprochen. Allerdings, gibt es natürlich ja auch [[11.1 Knotenpunkte mit Lichtsignalanlage|Ampeln]]
+Letztens haben wir ja die Kreuzungen ohne Ampeln besprochen. Allerdings, gibt es natürlich ja auch welche mit. Bevor wir Knotenpunkte mit Ampeln bewerten, brauchen wir die [[11.1 Knotenpunkte mit Lichtsignalanlage|technischen Aspekte von Ampeln]]. Haben wir die, können wir uns dann an die [[11.2 Knotenpunkte mit Lichtsignalanlage|Bemessung von Ampeln]] ran machen :D
