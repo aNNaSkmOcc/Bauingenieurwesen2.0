@@ -1,5 +1,3 @@
-# Wasserhaltung
-
 Hier kümmern wir uns um das Problem, was passiert, wenn der Grundwasserspiegel wieder steigt :DD
 
 Wir wir freilich wissen, bleibt der Grundwasserspiegel sicher nicht an einer Stelle.

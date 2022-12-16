@@ -19,7 +19,7 @@ Das heißt also, wir fügen der untersten Wand, die alle Lasten abbekommt eine F
 
 Wir haben 2 Arten von Fundament:
 
-Zunächst einmal, schauen wir uns die [[Flachgründungen]] an.
+Zunächst einmal, schauen wir uns die [[3. Flachgründungen]] an.
 
 Dann gibt es aber noch die [[Tiefgründung]]
 

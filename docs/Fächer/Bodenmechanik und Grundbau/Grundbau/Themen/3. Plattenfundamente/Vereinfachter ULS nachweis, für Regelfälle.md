@@ -30,5 +30,6 @@ Das design Volumen durch die verringerte Fläche.
 
 Die Spannung für den Wiederstand muss man aus Tabellen ablesen.
 
+Bei nichtbindigem Boden, kann ich die Tabellenwerte zur Not auch verändern:
 
-
+![[IMG_AB1CC944686A-1.jpeg]]

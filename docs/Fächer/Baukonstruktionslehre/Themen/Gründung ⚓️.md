@@ -1,5 +1,3 @@
-# Gründung ⚓️
-
 #### Allgemeines
 Hellooo lieber leser :DD 
 
@@ -17,40 +15,12 @@ Ein Keller ist heutzutage ein richtiger Luxus...... Heutzutage werden eher Häus
 
 Der Vorteil von solchen Kellern ist, dass man abgesehen von den vielfältigen Nutzungsmöglichkeiten der Räume, <mark style="background: #FFB8EBA6;">viel mehr Platz für TGA</mark> hat.
 
-#### Schritt 1 : Baugrube 
-Joa also der Buddelmann kommt und buddelt erstmal nen Loch da hin :D
-
-Man macht die Baugrube also, damit wir auch dadrin bauen können :DD
-
-Dabei soll natürlich gesagt sein, dass ich eine Baugrube nicht immer Straight 90° nach unten Baue :D:D.
-
-eine Baugrube sieht eher so aus:
-
-![[IMG_CFD49212FDD0-1 2.jpeg]]
-
-Was für einen Winkel letzendlich dabei rauskommt, ist natürlich abhängig von dem Boden in dem letzlich das Loch gebuddelt wird.
-
-Außerdem, ist ein sehr sehr wichtiger Kennwert, der höchste Grundwasserstand.... entweder man kennt ihn, oder man tut ihn sich ermitteln.
-
-Klar muss man ihn kennen, denn wer möchte schon im Wasser ein Keller bauen hahah.. ist der Grundwasserstand zu hoch, muss man das Wasser vorher rauspumpen
-
-<mark style="background: #FFB8EBA6;">Apell vom Prof: **DIE BAUGRUBE DARF NICHT NASS WERDEN**</mark> 
-
-Klar kann der Grundwasserstand auch sinken oder steigen... das muss man dann natürlich Berücksichtigen.
-
-> 💡Wie man das Wasser vor dem steigenden Wasser schützt, besprechen wir dann in der [[Wasserhaltung]]
-
-Das war jetzt aber das Anwendungsbeispiel, wenn ich auf einer riesen großen Wiese baue.
-
 ---
 
-#### Was wenn ich am Rand der Straße Baue ?
+#### Schritt 1 : Baugrube 
+Klar :D Wenn man Fundamente o.Ä baut, braucht man natürlich eine [[5. Baugruben|Baugrube]]
 
-Häufig in der Praxis, baut man auf Neubausiedlungen, wo man umgeben von straßen und häusern ist.... wenn man das einfach buddeln würde, würde dann alles auf der Baugrube liegen usw usw.
 
-Wie macht man das dann also??
-
-Damit beschäftigen wir und im [[Verbau einer Baugrube]]
 
 ---
 #### Schritt 4: Fundament ? Das Pokemon ist mir nicht bekannt :DD

@@ -1,5 +1,6 @@
-Fangen wir zunächst einmal an, mit dem **GEO-3** Nachweis.
+Fangen wir zunächst einmal an, mit dem **GEO-3** Nachweis. Mit diesem, weisen wir nämlich nach, dass die Gesamtkonstruktion hält.
 
+### Geo-3 Nachweis, für Böschungen
 Hier gehen wir naütürlich nach der **DIN 4084:2009**.
 
 Für die geraden Gleitflächen, betrachten wir die Kräfte.
@@ -10,7 +11,7 @@ Für die gekrümmten Gleitflächen, betrachten wir die Kräfte.
 
 Was wir jetzt noch wissen ist, dass wir die 
 
-### Gerader anwinkel
+#### Gerader anwinkel
 
 
 ##### Fall: überall gleicher Boden
@@ -130,7 +131,7 @@ Somit kommt dann das raus, was im gelben Kästchen steht.
 
 
 
-### Kreisförmige Gleitfläche
+#### Kreisförmige Gleitfläche
 
 Joo :D schauen wir uns jetzt mal an, wie man denn eine Kreisförmgie Gleitfläche berechnet und nachweist.
 
