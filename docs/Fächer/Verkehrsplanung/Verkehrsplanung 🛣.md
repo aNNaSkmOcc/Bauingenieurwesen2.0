@@ -19,3 +19,8 @@ Tja :D Gerade wenn es um Landstraßen oder Stadtstraßen geht, spielen die [[10.
 
 ### Lichtsignalanlagen
 Letztens haben wir ja die Kreuzungen ohne Ampeln besprochen. Allerdings, gibt es natürlich ja auch welche mit. Bevor wir Knotenpunkte mit Ampeln bewerten, brauchen wir die [[11.1 Knotenpunkte mit Lichtsignalanlage|technischen Aspekte von Ampeln]]. Haben wir die, können wir uns dann an die [[11.2 Knotenpunkte mit Lichtsignalanlage|Bemessung von Ampeln]] ran machen :D
+
+### Wartezeitentheorie
+Wir haben ja in den letzten wochen, ja immer am Ende die Wartezeiten berechnet :D
+
+Jetzt heute, hat der Prof und ganz kurz erklärt, woher diese [[12. Wartezeiten]] eigentlich herkommen :D
