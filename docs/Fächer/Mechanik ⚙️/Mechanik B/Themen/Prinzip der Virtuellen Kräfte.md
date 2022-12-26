@@ -197,3 +197,17 @@ UND FERTIG :DDD
 ##### Allgemeine Vorgehensweise
 
 ![[IMG_705630DBBEBC-1.jpeg]]
+
+### Wiederholung
+Ziemlich lange Herleitung diesdas :D In den mechanik Vorlesungen war das auch ziemlich anstregend zuzuhören.
+
+Wir haben ja gelernt, dass Arbeit = Weg mal Kraft ist.
+
+Das Prinzip der Virtuellen Kräfte ist jetzt nichts weiteres, als eine **reale Verschiebung** mal eine **virtuelle Kraft**.
+
+es gibt ein paar Bedingungen, die erfüllt werden:
+
+![[IMG_B2941C3E3628-1.jpeg]]
+
+das PVK, gibts natürlich sowohl für den Tymoshenko, als auch den Bernoulli-Balken.
+

@@ -16,11 +16,11 @@ Zunächst einmal, unterscheidet man zwischen **notwendigen Treppen** und **nicht
 
 Klar man braucht Treppen um Etagen zu wechseln das ist es nicht.
 
-Mit notwendigen Treppen, sind aber Treppen gemeint, die man stets als Fluchtwege für Brand nutzen soll. Dementsprechend, spielt das Thema Treppen auch im Rahmen des [[Brandschutz|Brandschutzes]] eine erhebliche Rolle.
+Mit notwendigen Treppen, sind aber Treppen gemeint, die man stets als Fluchtwege für Brand nutzen soll. Dementsprechend, spielt das Thema Treppen auch im Rahmen des [[Brandschutz 🧯|Brandschutzes]] eine erhebliche Rolle.
 
-Außerdem ist auch wie jedes Bauteil eigentlich auch, das Thema [[Schallschutz|Schallschutz]] sehr sehr wichtg. Wir müssen nämlich bei Treppen darauf achten, dass wir die den Treppenlauf von den Podesten entkoppeln
+Außerdem ist auch wie jedes Bauteil eigentlich auch, das Thema [[Schallschutz 🔊|Schallschutz]] sehr sehr wichtg. Wir müssen nämlich bei Treppen darauf achten, dass wir die den Treppenlauf von den Podesten entkoppeln
 
-Und Last but not least, der [[Wärmeschutz|Wärmeschutz]], denn Es wird Räume im Gebäude geben, die benachbart sind mit dem Treppenhaus. Das Problem ist, dass das Treppenhaus nie beheizt ist, und wir deswegen spezielle Anforderungen erfüllen müssen und und und:DD
+Und Last but not least, der [[Wärmeschutz 🔥|Wärmeschutz]], denn Es wird Räume im Gebäude geben, die benachbart sind mit dem Treppenhaus. Das Problem ist, dass das Treppenhaus nie beheizt ist, und wir deswegen spezielle Anforderungen erfüllen müssen und und und:DD
 
 
 ### Begriffe von Stufen

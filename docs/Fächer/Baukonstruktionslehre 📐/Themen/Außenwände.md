@@ -14,7 +14,7 @@ nun... zunächst einmal müssen wir uns wieder über die Anforderungen über das
 
 Nun.. zunächst möchten wir auch wie bei den Dächern einen sicheren Zufluchtsort in dem wir uns vor bestehenden Gefahren zurückziehen... Diese Wände bieten uns eben diesen Schutz.
 
-Zum einen wollen wir einen [[Schallschutz|Schutz vor dem Außenlärm]] , weil wir unsere Ruhe haben wollen. Außerdem wollen wir schutz vor [[Brandschutz|Brand]] und Regen suchen. Wir wollen auch, dass die Außenwände die [[Wärmeschutz|Wärme]] im Haus lassen und auch keinen Wind hereinlassen.
+Zum einen wollen wir einen [[Schallschutz 🔊|Schutz vor dem Außenlärm]] , weil wir unsere Ruhe haben wollen. Außerdem wollen wir schutz vor [[Brandschutz 🧯|Brand]] und Regen suchen. Wir wollen auch, dass die Außenwände die [[Wärmeschutz 🔥|Wärme]] im Haus lassen und auch keinen Wind hereinlassen.
 
 Falls wir einen Keller bauen, soll dieser natürlich auch dem Druck standhalten xd
 

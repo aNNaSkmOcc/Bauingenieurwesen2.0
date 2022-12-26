@@ -6,7 +6,7 @@ Das sind Enes seine notitzen :) Schätz dich glücklich und sei dankbar dafür w
 
 Folgende Module Behandle ich im Bachelor:
 
-[[Bauphysik 🔥]]
+[[Bauphysik 🔥💧🔊🧯]]
 
 [[Vermessungskunde 📏]]
 
@@ -16,9 +16,12 @@ Folgende Module Behandle ich im Bachelor:
 
 [[Informatik 🧑🏽‍💻]]
 
-[[Mathematik B 🧮]]
+Mathematik
+- [[Mathematik B 🧮]]
+- [[Mathematik C 🧮]]
 
-[[Mechanik B ⚙️]]
+Mechanik
+- [[Mechanik B ⚙️]]
 
 [[Statik 🌉]]
 
@@ -28,7 +31,6 @@ Folgende Module Behandle ich im Bachelor:
 
 [[Hydrologie 🚰]]
 
-[[Mathematik C 🧮]]
 
 ---
 
