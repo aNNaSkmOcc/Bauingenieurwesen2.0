@@ -219,7 +219,7 @@ Das können wir dann so berechnen:
 
 ![[IMG_4A2F484C7AF0-1.jpeg]]
 
-### Superposition für FOrmänderungsEnergie für Balken
+### Superposition für Formänderungsenergie für Balken
 
 Jetzt können wir alles was wir haben zusammenführen:
 

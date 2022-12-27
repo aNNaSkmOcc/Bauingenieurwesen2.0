@@ -209,5 +209,11 @@ es gibt ein paar Bedingungen, die erfüllt werden:
 
 ![[IMG_B2941C3E3628-1.jpeg]]
 
-das PVK, gibts natürlich sowohl für den Tymoshenko, als auch den Bernoulli-Balken.
+Schauen wir uns hier mal die berechnung der inneren bzw. der äußereren Verschiebungen an:
+
+![[IMG_FC99844863A8-1.jpeg]]
+
+Die berechnung ist eigetlich genau gleich wie das [[Prinzip der virtuellen Verschiebungen|PVV]], allerdings, haben hier die **Kräfte** einen Querbalken sprich, Sie sind Virtuell.
+
+das PVK, gibts natürlich sowohl für den Tymoshenko, als auch den Bernoulli-Balken, allerdings, gibts setzen wir für die Bernoulli-Theorie auch hier wieder die Gleitung $\gamma = 0$, also fliegt auch hier der Anteil mit dem $GA_Q$ weg.
 
