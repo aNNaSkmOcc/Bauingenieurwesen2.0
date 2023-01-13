@@ -31,3 +31,6 @@ Klar, wir wollen ja auch an die Menschen denken, die in der Nähe einer Autobahn
 ### testtt
 [[test.canvas]]
 
+mal schauen ob das überhaupt klappt haha wäre nice, weil ich meine Lernstrategie ändern möchte :D
+
+
