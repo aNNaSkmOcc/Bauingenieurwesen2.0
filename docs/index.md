@@ -16,12 +16,12 @@ Folgende Module Behandle ich im Bachelor:
 
 [[Informatik 🧑🏽‍💻]]
 
-Mathematik
-- [[Mathematik B 🧮]]
-- [[Mathematik C 🧮]]
+Mathematik:
+[[Mathematik B 🧮]]
+[[Mathematik C 🧮]]
 
-Mechanik
-- [[Mechanik B ⚙️]]
+Mechanik:
+[[Mechanik B ⚙️]]
 
 [[Statik 🌉]]
 
