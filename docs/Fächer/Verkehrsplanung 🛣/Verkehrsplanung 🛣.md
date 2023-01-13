@@ -24,3 +24,10 @@ Letztens haben wir ja die Kreuzungen ohne Ampeln besprochen. Allerdings, gibt es
 Wir haben ja in den letzten wochen, ja immer am Ende die Wartezeiten berechnet :D
 
 Jetzt heute, hat der Prof und ganz kurz erklärt, woher diese [[12. Wartezeiten]] eigentlich herkommen :D
+
+### Verkehrslärm
+Klar, wir wollen ja auch an die Menschen denken, die in der Nähe einer Autobahn leben, die dann aber nicht unbedingt diesen ganzen Verkehrslärm mitbekommen möchten. Das schauen wir uns im Thema [[13. Verkehrslärm|Verkehrslärm]] an
+
+### testtt
+[[test.canvas]]
+
