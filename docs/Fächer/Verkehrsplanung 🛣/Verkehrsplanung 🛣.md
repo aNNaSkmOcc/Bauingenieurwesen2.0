@@ -28,9 +28,5 @@ Jetzt heute, hat der Prof und ganz kurz erklärt, woher diese [[12. Wartezeiten]
 ### Verkehrslärm
 Klar, wir wollen ja auch an die Menschen denken, die in der Nähe einer Autobahn leben, die dann aber nicht unbedingt diesen ganzen Verkehrslärm mitbekommen möchten. Das schauen wir uns im Thema [[13. Verkehrslärm|Verkehrslärm]] an
 
-### testtt
-[[test.canvas]]
-
-mal schauen ob das überhaupt klappt haha wäre nice, weil ich meine Lernstrategie ändern möchte :D
 
 
