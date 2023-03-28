@@ -13,7 +13,10 @@ Klassifikationsparameter für **bindige** als auch **nichtbindige** Böden als a
 	- Lagerungsdichte $I_D$
 - **beide**
 	- Wassergehalt
-<!--ID: 1672090046753-->
+<!--ID: 1674043780478-->
+
+
+
 
 
 
@@ -30,11 +33,12 @@ Klassifikationsparameter für **bindige** als auch **nichtbindige** Böden als a
 
 ---
 
-<mark style="background: #FFB8EBA6;">Wie ist der Wassergehalt eines Bodens definiert ?</mark> #flashcard
-$w = \frac{mw}{md}$
+<mark style="background: #FFB8EBA6;">WIe hoch ist der Wassergehalt bei schwach und stark bindigen Böden ?</mark> #flashcard 
 - schwach bindige ca. 5 - 10%
 - stark bindige ca. 10-20%
-<!--ID: 1672090507925-->
+<!--ID: 1674043830674-->
+
+
 
 
 
@@ -135,8 +139,7 @@ $E_{Ton} = 1500 - 4000 \frac{kN}{m^2}$
 ---
 
 <mark style="background: #FFB8EBA6;">Benennen und erläutern Sie Sie das "Prinzip der effektiven Spannungen"</mark> #flashcard
-$\boxed{\sigma' = \sigma - u}$
-Setzt sich aus der totalen Spannung ($\sigma$) abzügluch des Porenwasserdruckes zusammen.
+Setzt sich zusammen aus der totalen Spannunge, abzüglich des Porenwasserdruckes
 <!--ID: 1672090507956-->
 
 
@@ -339,7 +342,7 @@ Triaxialversuche dienen dazu, die Scherfestigkeit und Spannungs-Dehnungsverhalte
 
 ---
 
-<mark style="background: #FFB8EBA6;">Geben Sie für Sand und einen Ton folgenden Größen an:</mark> #flashcard
+<mark style="background: #FFB8EBA6;">Geben Sie für Sand und einen Ton folgenden Größen an: Durchlässigkeit, Reibungswinkel, E-Modul</mark> #flashcard
 ![[IMG_6AEB92177DFA-1.jpeg]]
 <!--ID: 1672090508020-->
 
@@ -579,7 +582,7 @@ Wie lautet die Ursache der Erddruckspannung bei einem Sprung und bei einem Knick
 
 ---
 <mark style="background: #FFB8EBA6;">Was bedeutet Kohäsion?</mark> #flashcard
-Ordinatenabschnitt auf der t-Achse der als Gerade in einem t-s-Diagramm dargestellten Grenzbedingung.
+Innere Zusammenhalt des Bodens.
 <!--ID: 1672090508082-->
 
 
@@ -636,8 +639,7 @@ wenn die Porenzahl der Spannung äquivalent ist
 ---
 
 <mark style="background: #FFB8EBA6;">Was bedeutet (un-)drainiert?</mark> #flashcard
-- **Drainage:** Leitung, die den Abfluss des Porenwassers und damit die
-Konsolidierung bei relativ großer axialer Stauchungsrate erlaubt.
+- **Drainage:** Leitung, die den Abfluss des Porenwassers erlaubt
 - **Undrainiert:** existiert die Möglichkeit der Entwässerung nicht, der
 Grenzzustand entspricht damit näherungsweise dem Anfangsgrenzzustand.
 <!--ID: 1672090508097-->
@@ -729,7 +731,7 @@ d) außermittig belastetes Fundament mit Exzentrizität e=b/3
 1. Geländeoberfläche und Schichtgrenze verlaufen waagerecht
 2. keine überwiegende, dynamische Beanspruchung. In bindigen Schichten
 entsteht kein Porenwasserdruck
-3. tan(dE) = Tk/Nk ≤ 0,2
+3. $tan(dE) \leq 0,2$
 <!--ID: 1672090508113-->
 
 
@@ -1218,7 +1220,7 @@ beschreibt das Verdichtungsverhalten eines Bodens
 <mark style="background: #FFB8EBA6;">Wie lauten die typischen Durchlässigkeitskoeffizienten von Kies, Sand und Ton?</mark> #flashcard
 - Kies: k = $1 - 10^{-1}$
 - Sand: k = $10^{-2} - 10^{-4}$
-- Ton: k = $10^{-5} - 10ê{-9}$
+- Ton: k = $10^{-5} - 10^{-9}$
 <!--ID: 1672090766480-->
 
 
@@ -1312,7 +1314,8 @@ beschreibt das Verdichtungsverhalten eines Bodens
 
 
 ---
-<mark style="background: #FFB8EBA6;">Wie werden die Ergebnisse dieses Oedometerversuches dargestellt? -Zeit-Setzungslinie</mark> #flashcard
+<mark style="background: #FFB8EBA6;">Wie werden die Ergebnisse dieses Oedometerversuches dargestellt? </mark> #flashcard
+- Zeit-Setzungslinie
 - Druck-Setzungslinie 
 - Druck-Porenzahl Diagramm
 <!--ID: 1672090766498-->
@@ -1385,9 +1388,9 @@ mittels des Superpositionsprinzips
 
 Wie sieht die senkrechte Verschiebung bei einem schlaffen und starren Fundament aus? #flashcard
 - **starr:** 
-	-senkrechte Verschiebung ist an jeder Seite gleich
-	-Verteilung der Spannung unbekannt
-	-Verformung bekannt
+	- senkrechte Verschiebung ist an jeder Seite gleich
+	- Verteilung der Spannung unbekannt
+	- Verformung bekannt
 - **schlaff:** 
 	- Setzungsmulde stellt sich ein
 	- Verteilung bekannt  
@@ -1563,9 +1566,9 @@ Wie entstehen Schäden? #flashcard
 ---
 
 Was sind Gründe für die Setzungsdifferenz? #flashcard
-- Bodenschichten sind in horizontaler Richtung veränderlich steif, dick, tief -Unregelmäßigkeiten im Baugrund  
+- Bodenschichten sind in horizontaler Richtung veränderlich steif, dick, tief
 - unregelmäßige Belastung  
-- außermittige oder waagerechte oder ungleichmäßige vertikale Lasten
+- außermittige, waagerechte oder ungleichmäßige vertikale Lasten
 <!--ID: 1672090766543-->
 
 
@@ -1597,9 +1600,6 @@ Was hat Einfluss auf die Verzögerung der Endsetzung? #flashcard
 Was ist der Verfestigungsgrad #flashcard
 - Maß, wie weit die Verfestigung einer Schicht zu einem Zeitpunkt t bereits eingetreten ist
 <!--ID: 1672090766548-->
-
-
-
 
 
 
@@ -1641,7 +1641,7 @@ Warum ist die Scherfestigkeit von besonderer Bedeutung? #flashcard
 
 
 Wie ist ein Versagen aus Erdstoffen zurückzuführen? #flashcard
-- Einwirkungen ungleichförmiger Druckspannungen
+- ungleichförmige Druckspannungen
 <!--ID: 1672090766558-->
 
 
@@ -1719,7 +1719,7 @@ Was ist der Dilatanzwinkel? #flashcard
 
 
 Was ist Kontraktanz? #flashcard
-- wenn körnige Materialien locker gelagert sind, so vergrößert sich die dichte mit zunehmendem Scherweg, negativer Dilatanzwinkel
+- wenn körnige Materialien locker gelagert sind
 <!--ID: 1672090766573-->
 
 
@@ -1730,7 +1730,7 @@ Was ist Kontraktanz? #flashcard
 
 
 Was ist Kohäsion? #flashcard
-- darunter versteht man die zusammenhaltenden Kräfte von bindigen Böden, auch Haftfestigkeit genannt
+- zusammenhaltende Kräfte von bindigen Böden, auch Haftfestigkeit genannt
 <!--ID: 1672090766575-->
 
 
@@ -1897,20 +1897,15 @@ was ist die kritische Lagerungsdichte? #flashcard
 
 
 
+welche Pfahl Arten gibt es? #flashcard 
+Bohrpfahl, Verdrängungspfahl  
+<!--ID: 1676457599192-->
 
 
 
 
 
--Was besagt die Grenztiefe #flashcard
--welche parameter stehen für: Wichten g, gr, gw, g’. Welche Einheiten und In welchem
-<!--ID: 1672090766612-->
 
-
-zusammenhang stehen gr, gw, g’?  
--Grundbau: Frage mit Drainage, was passiert wenn zwei ausfallen, welche Kräfte wirken dann?  
--welche Einbaualernativen gibt es noch für Bohrpfähle  
--welche Pfahl Arten gibt es?->Bohrpfahl, Verdrängungspfahl  
 -Korngrößenverteilung von weitgestuften kies und eggestuften sand  
 -procotr kurve zeichnen welche werte lassen sich hieraus ablesen  
 -formel nach thegazie mit siega, siegma strich und porenwasserdruck  
@@ -1932,14 +1927,6 @@ Gleitsicherheit (GEO-2)! Skizzieren Sie die dazugehörigen Kräfte und geben S
 deren Gleichungen unter Verwendung der in Abbildung 2 angegeben Parameter an!
 
 Auf der passiven Seite wird der Boden dauerhaft entfernt!
-
-Umweltgeo:  
--Deckungsschicht, drei andere Nennen  
--Sicherung und Dekontamination, was ist das und mit welchen Verfarhen wird dies gemacht?  
--Asphalt- welche einwirkungen haben bestimmte Parameter haben sie?  
--Man besitzt ein Mineral mit der identischen eigenschaften wie Poren, Wichte usw. wieso sind sie dennoch nicht gleich?begründe die antwort  
--Warum haben xx eine geringere Tragfähigkeit als xx?  
--Erläutern sie das einbauverfahren von xxx
 
 
 

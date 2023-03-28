@@ -31,6 +31,10 @@ Mechanik:
 
 [[Hydrologie 🚰]]
 
+Ich benutze das aber schon garnicht mehr, weil ich gemerkt habe, dass es viel zu viel Zeit in Anspruch nimmt :D
+
+Deswegen aufjedenfall mieeese Zeiten :D 
+
 
 ---
 
